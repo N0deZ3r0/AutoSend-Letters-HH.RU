@@ -43,7 +43,7 @@ function createPanel() {
     
     panel.innerHTML = `
         <div style="margin-bottom: 15px;">
-            <h3 style="margin: 0 0 10px 0; color: #2196F3; font-size: 16px;">🤖 HH Авто-отклик v5.6</h3>
+            <h3 style="margin: 0 0 10px 0; color: #2196F3; font-size: 16px;">🤖 HH Авто-отклик </h3>
             <div id="hh-status" style="background: #f0f8ff; padding: 8px; border-radius: 4px; font-size: 13px; min-height: 40px; margin-bottom: 10px; white-space: pre-line;">
                 Готов к работе
             </div>
@@ -92,7 +92,7 @@ function createPanel() {
                     📊 Анализ
                 </button>
             </div>
-            <div>v5.6 Stable </div>
+            <div> by alex </div>
         </div>
     `;
     
